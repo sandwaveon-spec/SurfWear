@@ -1,4 +1,4 @@
-# tidewear
+# surf-apparel-brand-site
 
 > A design-forward brand and shop site for a cold-water surf and coastal apparel label.
 
@@ -52,7 +52,7 @@ node scripts/verify-core.mjs
 ## Project structure
 
 ```
-tidewear/
+surf-apparel-brand-site/
   .gitignore
   README.md
   assets/
